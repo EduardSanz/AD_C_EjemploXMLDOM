@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<estudiantes>
+    <estudiante dni="12345678H">
+        <nombre>Yeffry</nombre>
+        <nota>4.5</nota>
+    </estudiante>
+    <estudiante dni="12345678C">
+        <nombre>DANI</nombre>
+        <nota>3.5</nota>
+    </estudiante>
+</estudiantes>
